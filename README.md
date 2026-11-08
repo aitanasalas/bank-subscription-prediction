@@ -42,8 +42,8 @@ The analysis highlighted the importance of balancing predictive accuracy with in
 
 ## Files
 
-- **Assignment 3(2).R:** R code used for data preparation, classification models, and performance evaluation.
-- **Analyzing Classification Algorithms for Subscription Prediction (2).pdf:** Full report explaining the methodology, results, and conclusions.
+- **Assignment 3.R:** R code used for data preparation, classification models, and performance evaluation.
+- **Analyzing Classification Algorithms for Subscription Prediction.pdf:** Full report explaining the methodology, results, and conclusions.
 - **t_01(1).rds:** Dataset used in the analysis.
 
 ## Tools and Libraries
@@ -60,5 +60,5 @@ The analysis highlighted the importance of balancing predictive accuracy with in
 1. Download the R script and dataset.
 2. Open the script in RStudio.
 3. Install the required packages.
-4. Rename the dataset to `t_01.rds` and keep it in the working directory.
+4. Keep the dataset `t_01.rds` in the working directory.
 5. Run the script to reproduce the analysis.
